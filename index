@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    
+<meta charset="UTF-8">
+<title>Renton’s Top Roofing Company</title>
+<div></div>
+<style>
+  /* Centered content */
+  .centered-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+    margin: 0;
+  }
+
+  /* Style the phone number link */
+  .phone-link {
+    font-size: 24px;
+    text-decoration: none;
+    background-color: #0074d9; /* Blue color for the link */
+    color: #fff; /* White text color */
+    padding: 10px 20px;
+    border-radius: 5px;
+  }
+  
+  /* Style the placeholder text */
+  .placeholder-text {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 20px;
+  }
+</style>
+
+</head>
+
+<body>
+  <!-- First iframe -->
+<div>
+    <iframe src="https://adaptiveroofingwa.com/" width="1200px" height="600px"></iframe>
+  </div>
+
+  <!-- Second iframe -->
+  <div>
+    <iframe src="https://sites.google.com/view/adaptiveroofing/home" width="1200" height="600"></iframe>
+  </div>
+
+  <!-- Phone number link -->
+  <div class="centered-content">
+    <a class="phone-link" href="tel:+14255186130">(425) 518-6130</a>
+  </div>
+
+  <div class="text">
+  Adaptive Roofing of Greater Puget Sound, primarily serving Seattle, Bellevue, Redmond, Bothell, Kent & Renton, is known for its Roof Replacement & Roof Repair offerings, with a family-oriented approach to consultation. Founded by Sean and Marina Sternberg, Adaptive Roofing is built upon the principles of satisfied customers & eliminating waste as compared to the traditional roof replacement process. Adaptive Roofing is considered the best roofing company in King County due to improving the sales & project management process, & putting the customer in total control, at the center of decision-making. Adaptive Roofing is the only PNW company in the industry that doesn't employ a salesperson, and is customer-centric, affordable & flexible.</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>
+  </div>
+</body>
+</html>
